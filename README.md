@@ -1,5 +1,5 @@
 # MachineLearning_StudentSuccess
-A machine learning project. 
+A machine learning project, completed in March of 2022. 
 
 ## Background 
 
